@@ -25,7 +25,7 @@ body {
 .stopwatch {
   background: linear-gradient(#e0e0e0, #E2E2E2);
   border: 2px solid #000000;
-  box-shadow: 0 0 50px #151515;
+  box-shadow: 0 0 15px #151515;
   padding: 2rem;
   border-radius: 8px;
 }
@@ -99,7 +99,7 @@ body.dark-theme {
 .dark-theme .stopwatch {
   background: linear-gradient(#151515, #101010);
   border: 2px solid #ffffff;
-  box-shadow: 0 0 50px #ffffff;
+  box-shadow: 0 0 15px #ffffff;
   padding: 2rem;
   border-radius: 8px;
 }
